@@ -32,7 +32,7 @@ export const SignInForm = styled.form`
   }
 
   button {
-    background: ${(props) => props.theme.primary};
+    background: ${(props) => props.theme.blue};
     color: white;
     width: 90%;
     border-radius: 4px;

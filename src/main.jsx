@@ -27,7 +27,7 @@ const router = createBrowserRouter([
 ]);
 
 const theme = {
-  primary: "#2E9BFF",
+  blue: "#2E9BFF",
   darkBlue: "#0082FA",
   black: "#393939",
   white: "#fcfcfc",

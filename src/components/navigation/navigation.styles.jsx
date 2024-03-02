@@ -5,7 +5,7 @@ export const NavigationContainer = styled.div`
   flex-direction: column;
   align-items: center;
   width: 60px;
-  background: ${(props) => props.theme.primary};
+  background: ${(props) => props.theme.blue};
 `;
 
 export const LogoContainer = styled.div`

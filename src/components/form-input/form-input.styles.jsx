@@ -10,12 +10,12 @@ export const FormInputContainer = styled.div`
   position: relative;
 
   &:focus-within {
-    outline: 2px solid ${({ theme }) => theme.primary};
+    outline: 2px solid ${({ theme }) => theme.blue};
   }
 
   i,
   svg {
-    color: ${(props) => props.theme.primary};
+    color: ${(props) => props.theme.blue};
     position: absolute;
     top: 10px;
   }
